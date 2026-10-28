@@ -54,3 +54,4 @@ A previous successful save is retained for recovery. Atomic revision checks prev
 - `design/`: original HTML mockups and design inputs, retained separately from the running app. Preview captures (`design/*.png`) are local artifacts and are not versioned
 
 The first release is local and uses no account, AI service, application backend or database server. Advanced auto-layout, group dragging, tab duplication/reordering, cloud sync and collaboration remain outside this release. Font assets and available notices were retained from the approved local references; review redistribution rights before publicly packaging the project.
+# sys-design-tool
